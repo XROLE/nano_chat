@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nano_chat/chat_home/index.dart';
+import 'package:nano_chat/ui/chat_home/index.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
        
         primarySwatch: Colors.blue,
       ),
+      debugShowCheckedModeBanner: false,
       home:ChatHome(),
     );
   }
