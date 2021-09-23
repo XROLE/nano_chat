@@ -48,7 +48,7 @@ List<User> mockUsersList = [
   ),
   User(
     name: 'Dude Second',
-    imageUrl: 'https://tse3.mm.bing.net/th?id=OIP.5UVzDzIUe2oLbSe_pAi0NAAAAA&pid=Api&P=0&w=300&h=300',
+    imageUrl: 'https://tse3.mm.bing.net/th?id=OIP.ZMhMDAm_zOHIe0xve7jjVwHaEo&pid=Api&P=0&w=242&h=152',
     message: 'Alright dear',
     unReadCount: 0,
     lastMessageTime: '2 days, ago',
