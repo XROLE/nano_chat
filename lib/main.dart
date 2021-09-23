@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nano_chat/ui/chat_home/index.dart';
+import 'package:nano_chat/ui/chatHome/index.dart';
 
 void main() {
   runApp(MyApp());
